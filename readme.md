@@ -25,9 +25,8 @@ This helped me understand things like:
 
 
 runnable-from-scratch
-│
-├── runnable.ipynb      # main notebook with the implementation
-└── README.md
+1. runnable.ipynb      # main notebook with the implementation
+2. README.md
 
 
 
